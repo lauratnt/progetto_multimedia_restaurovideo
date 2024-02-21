@@ -1,5 +1,4 @@
 # progetto_multimedia_restaurovideo
-spiegazione in breve del codice:
     Estrazione dei Frame da un Video e Cropping:
         In questa sezione, vengono estratti i frame da un video e salvati come immagini PNG. Successivamente, queste immagini vengono sottoposte a un processo di ritaglio per rimuovere parti indesiderate.
 
