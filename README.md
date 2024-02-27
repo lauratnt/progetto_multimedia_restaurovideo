@@ -9,6 +9,7 @@
 
     Post-processing e Creazione di un Video:
         Infine, le immagini elaborate vengono sottoposte a un processo di restauro tramite filtri bilaterali, correzione del contrasto e sharpening. Le immagini restaurate vengono utilizzate per creare un nuovo video.
+        Successivamente, è possibile confrontare il video modificato con quello originale e bloccarlo sui frame per notarne le differenze.
 
 In sintesi, il codice prende un video in input, ne estrae i frame, esegue diverse operazioni di elaborazione e manipolazione delle immagini su questi frame, e infine crea un nuovo video a partire dalle immagini elaborate. Durante l'elaborazione delle immagini, viene data all'utente la possibilità di interagire e controllare il processo attraverso l'interfaccia grafica, consentendo di selezionare manualmente le regioni di interesse sull'immagine e di eseguire diverse operazioni di elaborazione in base alle proprie esigenze.
 Disclaimer: si devono sostituire le directory e il percorso video per poter far funzionare il programma per intero. Le directory dovrebbero essere implementate nella stessa cartella dov'è contenuto il codice per intero. (se le cartelle non esistono vengono create in automatico).
